@@ -1,4 +1,8 @@
 # fyrworkshop
+```
+bash resize.sh 100
+```
+
 - Create policy
 - Create role
 - Create batch compute environment
