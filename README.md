@@ -3,6 +3,8 @@
 - Create role
 - Create batch compute environment
 
+#disable temp credentials
+https://catalog.us-east-1.prod.workshops.aws/workshops/8213ad51-878f-493b-8e5a-fbea22c4360c/en-US/setup/cloud9/disable-cred
 ```
 npm install -g c9
 c9 open nextflow.config
